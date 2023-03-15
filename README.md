@@ -1,6 +1,8 @@
 <html>
 <head>
- <title>R E S I G N I F I C A C I Ó N</title>
+ <title>
+  R E S I G N I F I C A C I Ó N
+ </title>
 <img src="Resignificacion titulo.jpg"/> <center>
 
 <style>
