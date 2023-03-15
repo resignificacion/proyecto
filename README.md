@@ -1,1 +1,97 @@
-# proyecto
+<html>
+<head>
+ <title>R E S I G N I F I C A C I Ó N</title>
+<img src="Resignificacion titulo.jpg"/> <center>
+
+<style>
+.Contenedor {
+Display: flex;
+Justify-content:center;
+}
+.btn-1 {background-color:white;
+margin-left:0px;
+Border-radius:15px;
+Cursor:pointer;
+
+}
+
+.btn-2 {background-color:white;
+margin-left:0px;
+Border-radius:15px;
+Cursor:pointer;
+}
+
+.btn-s {background-color:white;
+margin-left:0px;
+Border:0px;
+}
+
+.btn-1:hover{background-color:grey;}
+.btn-2:hover{background-color:grey;}
+
+
+.Separacion {
+
+.btn-3
+background-color:white;
+Flex-direction: column;
+}
+
+
+</style>
+
+<div class="contenedor">
+
+<Button class=btn-1><h3><a href="el libro de las palabras favoritas.html" style="Font-family:Helvetica">
+<center>El libro de las palabras favoritas</a></h3></Button>
+
+<Button  class=btn-s> </button>
+
+<Button class=btn-2><h3><a href="El libro de las palabras dificiles.html">
+El libro de las palabras difíciles</a></h3></Button>
+
+
+<style>
+A {
+Color:black;
+text-decoration:none;
+Font-family:Helvetica;
+Text-align:center;
+
+}
+</style>
+
+
+</head>
+
+
+</div class="contenedor">
+
+<div class="separacion">
+
+<z> AAAHH </z>
+<z>  AAAHH </z>
+
+
+<style>
+z{
+Color:white;
+text-decoration:none;
+Font-family:Helvetica;
+Text-align:center;
+
+}
+</style>
+
+
+
+</div class="separacion">
+
+<p> "RESIGNIFICACIÓN" </p>
+<p> Es un proyecto artístico coordinado por Frida Palomera </p>
+
+<style>
+P{
+Font-family:helvetica;}
+
+</hr>
